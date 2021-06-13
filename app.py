@@ -295,8 +295,6 @@ def app():
 
 
 
-	st.subheader(' ------------------------Created By :  HARIT SHANDILYA ---------------------- :😡😭😂😐:')
-
 
 			
 
